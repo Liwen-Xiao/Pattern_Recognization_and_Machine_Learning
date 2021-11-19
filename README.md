@@ -27,4 +27,4 @@ There are some basic arithmatics in Pattern Recognization and Machine Learning w
 10. LeNet
 ***
 * I am sorry to tell you that I only upload the .py files that I wrote because the whole envirnment (including all the needed packages, such as pytorch and numpy) is too big for git to upload. I haven't found the method to copy with this problem. If one day I find the method, I'll upload my whole envirnment.  
-* But don't worry, you can put the .py files in your own envirnment and the Pycharm will guide you to donwload the packages you need.
+* But don't worry, because you can put the .py files in your own envirnment and the Pycharm will guide you to donwload the packages you need.
