@@ -1,5 +1,5 @@
 # Pattern_Recognization_and_Machine_Learning
-There are some basic arithmatic in Pattern Recognization and Machine Learning writed in Python in this repository  
+There are some basic arithmatics in Pattern Recognization and Machine Learning writted in Python in this repository  
 
 这其中的内容其实是一个课程的课程作业：  
 学院：华中科技大学人工智能与自动化学院  
